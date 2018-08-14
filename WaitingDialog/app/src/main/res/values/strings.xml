@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaitingDialog</string>
+    <string name="progressdialog">ProgressDialog</string>
+    <string name="time_seconds">Time (seconds)</string>
+</resources>
